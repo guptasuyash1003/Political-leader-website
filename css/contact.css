@@ -1,0 +1,36 @@
+.navigationimage{
+    height: 30px;
+    width: 30px;
+   }
+
+  #special{
+    font-size: 6rem;
+    color: white;
+    text-align: center;
+    padding-top: 7rem;
+   }
+    
+  .thumbnail{
+    height: 240px;
+    border-radius: 20px;
+    background-color: #b8b894;
+   }
+
+   body{
+    background-color: #cccccc;
+    overflow-x: hidden;
+   }
+
+   #sec1{
+    height: 20rem;
+    background-color: #ff751a;
+    text-align: center;
+   }
+
+  #bttn{
+  background-color: #ff751a; 
+  font-style:italic;
+  color: white;
+  border-radius: 15px;
+  padding: 1rem 2rem;
+  }

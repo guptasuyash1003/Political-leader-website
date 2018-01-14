@@ -1,0 +1,135 @@
+body{
+	overflow-x: hidden;
+}
+
+.navigationimage{
+    height: 30px;
+    width: 30px;
+  }
+
+.thumbnail{
+    height: 240px;
+    border-radius: 20px;
+    background-color: #b8b894;
+   }
+
+#headerimg img{
+ display:block; 
+ width:100%; 
+ height:40em;
+ size: cover;
+ position: relative;
+ /*margin-top: 10rem;*/
+ }
+
+#part1{
+    position: absolute;
+    background-color: #ff751a;
+    width: 45%;
+    height: 5rem;
+    vertical-align: middle;
+    text-align: center;
+    font-style: italic;
+    top: 25rem;
+    left: 15rem;
+    color: white;
+    font-size: 2.5rem;
+}
+
+#part2{
+    position: absolute;
+    background-color: green;
+    width: 35%;
+    height: 5rem;
+    vertical-align: middle;
+    text-align: center;
+    font-style: italic;
+    top: 32rem;
+    left: 25rem;
+    color: white;
+    font-size: 2.5rem;
+}
+
+ .displayimg img{
+ 	/*background-color: gray;*/
+ 	display: block;
+ 	width: 40%;
+ 	height: 8em;
+ 	margin: auto;
+ 	vertical-align: middle;
+ 	margin-top: 5.5em;
+ }
+
+#sec2 a{
+	color: black;
+}
+
+#sec2{
+	height: 20em;
+}
+
+#sec3 h1{
+	font-size: 4em;
+	padding-top: 1em;
+	color: white;
+}
+
+#sec3{
+	height: 18em; 
+	background-color: black;
+}
+
+#sec4{
+	background-color: #cccccc;
+	height: 28.5em; 
+	width: 100%;
+}
+
+#sec4 a figure img{
+	/*display: inline-block;*/
+	height: 4em;
+}
+
+#sec4 .shift{
+	padding-top: 5rem;
+}
+
+/*form{
+	border-radius: 50px;
+}
+*/
+#first{
+	border-radius: 20px;
+	width: 34.5%;
+	height: 4rem;
+}
+
+#last{
+	border-radius: 20px;
+	width: 34.5%;
+	height: 4rem;
+}
+
+#mail{
+	width: 70%;
+    border-radius: 20px;
+    height: 4rem;
+}
+
+#msg{
+	width: 70%;
+	height: 10rem;
+	border-radius: 20px;
+}
+
+::placeholder{
+	font-style: italic;
+}
+
+#bttn{
+	background-color: #ff751a; 
+	font-style:italic;
+	color: white;
+	border-radius: 15px;
+	padding: 1rem 2rem;
+}

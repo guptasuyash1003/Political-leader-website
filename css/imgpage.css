@@ -1,0 +1,90 @@
+ .navigationimage{
+    height: 30px;
+    width: 30px;
+   }
+
+  #special{
+    font-size: 6rem;
+    color: white;
+    text-align: center;
+    padding-top: 7rem;
+   }
+    
+  .thumbnail{
+    height: 25rem;
+    border-radius: 20px;
+    background-color: #b8b894;
+   }
+
+   body{
+    background-color: #cccccc;
+    overflow-x: hidden;
+   }
+
+   #sec1{
+    height: 20rem;
+    background-color: #ff751a;
+    text-align: center;
+   }
+
+   #sec2{
+    padding-top: 5rem;
+   }
+
+  #sec4 .shift{
+  padding-top: 5rem;
+   }
+
+   #first{
+  border-radius: 20px;
+  width: 34.5%;
+  height: 4rem;
+}
+
+#last{
+  border-radius: 20px;
+  width: 34.5%;
+  height: 4rem;
+}
+
+#mail{
+  width: 70%;
+    border-radius: 20px;
+    height: 4rem;
+}
+
+#msg{
+  width: 70%;
+  height: 10rem;
+  border-radius: 20px;
+}
+
+::placeholder{
+  font-style: italic;
+}
+
+#bttn{
+  background-color: #ff751a; 
+  font-style:italic;
+  color: white;
+  border-radius: 15px;
+  padding: 1rem 2rem;
+}
+
+#sec3{
+  height: 30rem; 
+  width: 100%;
+}
+
+#sec3 a figure img{
+  /*display: inline-block;*/
+  height: 4em;
+}
+
+#sec4 .shift{
+  padding-top: 5rem;
+}
+
+#address{
+  padding-top: 5rem;
+}
